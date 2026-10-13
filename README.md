@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Júlio César 👋
 
-<!--
-**mrjalves/mrjalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software com experiência em **C#/.NET**, integração de sistemas (REST/SOAP) e aplicações mobile. Atualmente estudo **Inteligência Artificial e Machine Learning com Python**.
 
-Here are some ideas to get you started:
+## Tecnologias
+- **Linguagens:** Python, C#, VB.NET, JavaScript, C
+- **Frameworks:** Django, Flask, Node.js, React, Entity Framework, Blazor
+- **Bancos de dados:** SQL Server, MySQL, PostgreSQL
+- **Ferramentas:** Git, Linux, Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em estudo
+- Machine Learning com Python
+- IA na Google Cloud
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/juliocesar-desenvolvedor/)
+- [Credly](https://www.credly.com/users/julio-cesar-alves-rodrigues)
+- juliocalves.ro@gmail.com
